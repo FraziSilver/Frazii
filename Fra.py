@@ -854,7 +854,7 @@ def bot(op):
 			#G.preventJoinByTicket #= #True
 			#Frazi.updateGroup#(G#)
 			Frazi.sendText(op.param1,"☆Ketik ☞Help☜ Untuk Bantuan☆\n☆Harap Gunakan Dengan Bijak ^_^ ☆")
-			Frazi.sendText(op.param1,"☆Jika terjadi sesuatu hubungi own☆\n☆https://line.me/ti/p/%40bqs0815l")
+			Frazi.sendText(op.param1,"☆Jika terjadi sesuatu hubungi own☆\n☆https://line.me/ti/p/~lolilover666")
 	    else:
                 if wait["AutoCancel"][op.param1] == True:
 		    if op.param3 in admin:
