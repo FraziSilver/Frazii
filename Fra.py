@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 Frazi = Frazi.LINE()
 #Frazi.login(qr=True)
-Frazi.login(token='ErTeIv3EzHHJxx3C8Boc.e2nG9Laq77F43k02llldZa.mpNlTtinB1vWKdRcIPlIv1nHEd+sVHELilAY/tkSP5I=')
+Frazi.login(token='EA1ITTw4Hc7aEq131F1a.nW611Rdoxl89EpTS13eBkG.Q6OYr4Z8DK7j1gj+sPal7WAssNUa57L//Ha4w7VI4JY=')
 Frazi.loginResult()
 print "Frazi-Login Success\n"
 
