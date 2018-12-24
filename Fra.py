@@ -420,7 +420,7 @@ wait = {
   #  "comment2":"Wkwkwk ＼（○＾ω＾○）／",
 #    "comment3":"Lucu Banget!!! ヘ(^_^)ヘ",
 #    "comment4":"Nice Kak (^_^)",
-    "comment5":"Bot Auto Like ©By : Frazi\nAdd oa kita, buat mengetahui bot lainnya : 👉 http://line.me/ti/p/%40bqs0815l",    
+    "comment5":"Bot Auto Like ©By : Frazi",    
     "commentOn":True,
     "commentBlack":{},
     "message":"Thx For Add Me (^_^)\nInvite Me To Your Group ヘ(^_^)ヘ",    
